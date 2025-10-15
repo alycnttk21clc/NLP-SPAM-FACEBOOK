@@ -13,7 +13,7 @@ Mục tiêu là hỗ trợ quản lý bình luận, loại bỏ các nội dung 
 
 ##  Cấu trúc dự án
 - `spam_detector_colab.ipynb` – Notebook chính: tiền xử lý, huấn luyện, đánh giá mô hình.
-- `facebook_captions_comments_spam_dataset.csv` – Bộ dữ liệu gồm các caption & comment Facebook đã gán nhãn.
+-"/content/law_qa_dataset_with_answers.csv" – Bộ dữ liệu gồm các caption & comment Facebook đã gán nhãn.
 - `README.md` – Tài liệu mô tả dự án.
 
 ## 🚀 Cách chạy
