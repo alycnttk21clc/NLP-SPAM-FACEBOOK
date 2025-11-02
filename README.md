@@ -13,13 +13,13 @@ Mục tiêu là hỗ trợ quản lý bình luận, loại bỏ các nội dung 
 
 ##  Cấu trúc dự án
 - `spam_detector_colab.ipynb` – Notebook chính: tiền xử lý, huấn luyện, đánh giá mô hình.
--"/content/law_qa_dataset_with_answers.csv" – Bộ dữ liệu gồm các caption & comment Facebook đã gán nhãn.
+-"/content/law_qa_dataset_with_answers_plus_300_UTF8.csv" – Bộ dữ liệu gồm các caption & comment Facebook đã gán nhãn.
 - `README.md` – Tài liệu mô tả dự án.
 
 ## 🚀 Cách chạy
 Bạn có thể mở trực tiếp project trên Google Colab bằng nút dưới đây:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DcCf-HXAy9nYfbYqI13CK8pFWC7FMN8z?authuser=0#scrollTo=-kXvsxk_gXrj)
+https://colab.research.google.com/drive/1Is44pjEdwLuYUFI2DFc60BZsA6ydq45v?usp=sharing
 
 Hoặc clone repo về máy và chạy:
 ```bash
